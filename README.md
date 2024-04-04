@@ -17,7 +17,7 @@ The project was developed using the following technologies:
 
 - **Frontend:** Angular
 - **Backend:** Node.js, Django
-- **База Данных:** PostgreSQL
+- **Database:** PostgreSQL
 
 ## Installation and Launch
 
